@@ -22,6 +22,7 @@
     <ProjectName>libusb-usbdk-1.0 (dll)</ProjectName>
     <ProjectGuid>{F53A5974-2319-48EB-A67B-27933AEDF14A}</ProjectGuid>
     <RootNamespace>libusbdll</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">

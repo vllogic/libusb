@@ -22,6 +22,7 @@
     <ProjectName>libusb-1.0 (dll)</ProjectName>
     <ProjectGuid>{349EE8FA-7D25-4909-AAF5-FF3FADE72187}</ProjectGuid>
     <RootNamespace>libusbdll</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
